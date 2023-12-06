@@ -1,4 +1,5 @@
 ### Hi there 👋
+![HelloWorld](https://github.com/gowribhat/gowribhat/assets/97337263/aad2602b-ad53-4093-bf6b-9edb771dcfb0)
 
 <!--
 **gowribhat/gowribhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
