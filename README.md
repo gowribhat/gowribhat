@@ -5,7 +5,10 @@
     <a href="https://www.linkedin.com/in/gowri-bhat" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 
-## 🔧 Technologies & Tools
+### 👩‍💻 About Me :
+Greetings! 👋 I'm Gowri, currently in my penultimate year pursuing a Bachelor of Computing in Computer Science (Honours) at the National University of Singapore. My academic journey is enriched by the pursuit of two minors: one in Management, fostering a business perspective, and the other in Interactive Media Development, allowing me to blend user experience seamlessly with technology.
+
+### 🔧 Technologies & Tools :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
